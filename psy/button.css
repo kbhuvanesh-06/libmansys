@@ -1,0 +1,134 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.img
+{
+  background-image: url(huh.jpg);
+    background-size: contain;
+    height: 100%;
+    width: 100%;
+    
+}
+.nav
+{
+    height: 10%;
+    background-color: black;
+    opacity: 0.7;   
+}
+nav ul li
+{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a
+{
+    padding: 7px 13px;
+    font-size: 17px;
+        color:white;
+    text-transform: uppercase;
+    border-radius: 3px;
+}
+.logo
+{
+   background-image: url(mm.jpg);
+   height: 100%;
+    width: 30%;
+    background-size: cover;
+    float: right;   
+    
+}
+.bleh
+{
+    height: 60%;
+    width: 50%;
+  
+    position: absolute;
+    margin-left: 380px;
+    margin-top: 130px;
+}
+.img2
+{
+    height: 60%;
+    width: 48%;
+    float: left;
+  border: 2px solid black   ;
+    
+    
+}
+.img3
+{
+    height: 79%;
+    width: 49.3%;
+    float: right;
+    
+    border: 1px solid white;
+}
+.button1
+{
+    padding: 12 15px;
+    background-color: coral;
+    border: 1px solid white;
+    margin-left: 100px;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+
+}
+.button2
+{
+    padding: 12 30px;
+    background-color: coral;
+    border: 1px solid white;
+    margin-left: 100px;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+
+}
+.button3
+{
+    padding: 12 35px;
+    background-color: coral;
+    border: 1px solid white;
+    margin-left: 100px;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+
+}
+.button4
+{
+    padding: 12 15px;
+    background-color: coral;
+    border: 1px solid white;
+    margin-left: 100px;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+
+}
+.button5
+{
+    padding: 12 15px;
+    background-color: coral;
+    border: 1px solid white;
+    margin-left: 100px;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+
+}
+.button6
+{
+ padding: 12 15px;
+    background-color: coral;
+    border: 1px solid white;
+    margin-left: 100px;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;   
+}
+

@@ -1,0 +1,52 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.img
+{
+    background-image: url(huh.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+}
+.box
+{
+    height: 55%;
+    width: 55%;
+    border: 1px solid white;
+    position: absolute;
+    margin-left: 23%;
+    margin-top: 10%;
+}
+.dba
+{
+    height: 40%;
+    width: 80%;
+    
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+.frst
+{
+    height: 100%;
+    width: 34%;
+    
+    float: left;
+}
+.scnd
+{
+    height: 100%;
+    width: 32%;
+    
+    margin-left: 230px;
+    position: absolute;
+}
+.thrd
+{
+    height: 100%;
+    width: 33.99%;
+    
+    float: right;
+}

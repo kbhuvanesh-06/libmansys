@@ -1,0 +1,36 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.img
+{
+    background-image: url(huh.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+}
+.box
+{
+    height: 500px;
+    width: 68%;
+    border: 1px solid white;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 250px;
+}
+.button
+{
+    
+}
+.btn1
+{
+    padding: 15px 60px;
+    background-color: coral;
+  position: absolute;
+    margin-left: 670px;
+    color: white;
+    border: 0px;
+    position: absolute;
+    margin-top:400px
+}
